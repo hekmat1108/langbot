@@ -1,3 +1,5 @@
-python-dotenv
+Flask
+gunicorn
 pyTelegramBotAPI
 gTTS
+python-dotenv
