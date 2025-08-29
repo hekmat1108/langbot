@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "words": ["every", "morning", "he", "to", "the", "park", "runs"],
+        "correct_sentence": "He runs to the park every morning",
+        "translation": "او هر صبح به پارک می‌رود"
+    },
+    {
+        "id": 2,
+        "words": ["tea", "she", "drinking", "likes", "in", "the", "afternoon"],
+        "correct_sentence": "She likes drinking tea in the afternoon",
+        "translation": "او دوست دارد بعد از ظهر چای بنوشد"
+    },
+    {
+        "id": 3,
+        "words": ["walk", "they", "school", "to", "every", "day"],
+        "correct_sentence": "They walk to school every day",
+        "translation": "آن‌ها هر روز به مدرسه پیاده می‌روند"
+    },
+    {
+        "id": 4,
+        "words": ["at", "home", "we", "English", "often", "study"],
+        "correct_sentence": "We often study English at home",
+        "translation": "ما اغلب انگلیسی را در خانه مطالعه می‌کنیم"
+    },
+    {
+        "id": 5,
+        "words": ["sometimes", "I", "to", "music", "listen"],
+        "correct_sentence": "I sometimes listen to music",
+        "translation": "من گاهی به موسیقی گوش می‌کنم"
+    },
+    {
+        "id": 6,
+        "words": ["always", "sleeps", "on", "sofa", "my", "the", "cat"],
+        "correct_sentence": "My cat always sleeps on the sofa",
+        "translation": "گربه من همیشه روی مبل می‌خوابد"
+    },
+    {
+        "id": 7,
+        "words": ["in", "the", "morning", "coffee", "he", "drinks"],
+        "correct_sentence": "He drinks coffee in the morning",
+        "translation": "او صبح‌ها قهوه می‌نوشد"
+    },
+    {
+        "id": 8,
+        "words": ["books", "before", "sleep", "she", "to", "read", "likes"],
+        "correct_sentence": "She likes to read books before sleep",
+        "translation": "او دوست دارد قبل از خواب کتاب بخواند"
+    },
+    {
+        "id": 9,
+        "words": ["on", "weekends", "they", "football", "play"],
+        "correct_sentence": "They play football on weekends",
+        "translation": "آن‌ها آخر هفته فوتبال بازی می‌کنند"
+    },
+    {
+        "id": 10,
+        "words": ["every", "evening", "our", "dog", "walk", "we"],
+        "correct_sentence": "We walk our dog every evening",
+        "translation": "ما هر شب سگ‌مان را می‌بریم پیاده‌روی"
+    },
+    {
+        "id": 11,
+        "words": ["usually", "breakfast", "at", "eats", "7", "he", "o'clock"],
+        "correct_sentence": "He usually eats breakfast at 7 o'clock",
+        "translation": "او معمولاً ساعت 7 صبحانه می‌خورد"
+    },
+    {
+        "id": 12,
+        "words": ["go", "to", "movies", "we", "on", "Fridays"],
+        "correct_sentence": "We go to the movies on Fridays",
+        "translation": "ما در روزهای جمعه به سینما می‌رویم"
+    },
+    {
+        "id": 13,
+        "words": ["likes", "her", "mother", "baking", "cakes", "on", "Sundays"],
+        "correct_sentence": "Her mother likes baking cakes on Sundays",
+        "translation": "مادرش دوست دارد روزهای یکشنبه کیک بپزد"
+    },
+    {
+        "id": 14,
+        "words": ["often", "emails", "in", "morning", "she", "writes", "the"],
+        "correct_sentence": "She often writes emails in the morning",
+        "translation": "او اغلب صبح‌ها ایمیل می‌نویسد"
+    },
+    {
+        "id": 15,
+        "words": ["never", "late", "is", "for", "class", "my", "friend"],
+        "correct_sentence": "My friend is never late for class",
+        "translation": "دوست من هرگز برای کلاس دیر نمی‌کند"
+    },
+    {
+        "id": 16,
+        "words": ["every", "day", "homework", "does", "his", "Ali"],
+        "correct_sentence": "Ali does his homework every day",
+        "translation": "علی هر روز تکالیفش را انجام می‌دهد"
+    },
+    {
+        "id": 17,
+        "words": ["washes", "car", "on", "Saturday", "he", "his"],
+        "correct_sentence": "He washes his car on Saturday",
+        "translation": "او روز شنبه ماشینش را شست‌وشو می‌کند"
+    },
+    {
+        "id": 18,
+        "words": ["sometimes", "to", "the", "zoo", "they", "go"],
+        "correct_sentence": "They sometimes go to the zoo",
+        "translation": "آن‌ها گاهی به باغ وحش می‌روند"
+    },
+    {
+        "id": 19,
+        "words": ["drinks", "water", "after", "exercise", "she", "always"],
+        "correct_sentence": "She always drinks water after exercise",
+        "translation": "او همیشه بعد از ورزش آب می‌نوشد"
+    },
+    {
+        "id": 20,
+        "words": ["teaches", "English", "at", "school", "my", "aunt"],
+        "correct_sentence": "My aunt teaches English at a school",
+        "translation": "خاله من انگلیسی را در یک مدرسه تدریس می‌کند"
+    },
+    {
+        "id": 21,
+        "words": ["every", "night", "TV", "watches", "he", "the"],
+        "correct_sentence": "He watches the TV every night",
+        "translation": "او هر شب تلویزیون تماشا می‌کند"
+    },
+    {
+        "id": 22,
+        "words": ["likes", "to", "pizza", "on", "Friday", "she", "eat"],
+        "correct_sentence": "She likes to eat pizza on Friday",
+        "translation": "او دوست دارد روز جمعه پیتزا بخورد"
+    },
+    {
+        "id": 23,
+        "words": ["rarely", "junk", "food", "eats", "my", "brother"],
+        "correct_sentence": "My brother rarely eats junk food",
+        "translation": "برادر من به ندرت غذای ناسالم می‌خورد"
+    },
+    {
+        "id": 24,
+        "words": ["goes", "to", "work", "by", "bike", "she", "usually"],
+        "correct_sentence": "She usually goes to work by bike",
+        "translation": "او معمولاً با دوچرخه به محل کار می‌رود"
+    },
+    {
+        "id": 25,
+        "words": ["in", "the", "evening", "family", "dinner", "has", "they"],
+        "correct_sentence": "They have dinner with family in the evening",
+        "translation": "آن‌ها عصرها با خانواده شام می‌خورند"
+    },
+    {
+        "id": 26,
+        "words": ["reads", "newspaper", "father", "my", "every", "the", "day"],
+        "correct_sentence": "My father reads the newspaper every day",
+        "translation": "پدر من هر روز روزنامه می‌خواند"
+    },
+    {
+        "id": 27,
+        "words": ["cleans", "room", "her", "daily", "she"],
+        "correct_sentence": "She cleans her room daily",
+        "translation": "او هر روز اتاقش را تمیز می‌کند"
+    },
+    {
+        "id": 28,
+        "words": ["plays", "piano", "after", "school", "he", "often"],
+        "correct_sentence": "He often plays the piano after school",
+        "translation": "او اغلب بعد از مدرسه پیانو می‌نوازد"
+    },
+    {
+        "id": 29,
+        "words": ["on", "Mondays", "swims", "she", "at", "pool", "the"],
+        "correct_sentence": "She swims at the pool on Mondays",
+        "translation": "او روزهای دوشنبه در استخر شنا می‌کند"
+    },
+    {
+        "id": 30,
+        "words": ["calls", "grandmother", "every", "week", "her", "he"],
+        "correct_sentence": "He calls his grandmother every week",
+        "translation": "او هر هفته با مادربزرگش تماس می‌گیرد"
+    }
+]
